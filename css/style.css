@@ -1,0 +1,33 @@
+div {
+font-family: sans-serif;
+}
+
+#search {
+    background: #E2E2E2;
+}
+form {
+    background: #f8f8f8;
+}
+table>tbody>tr>td:nth-of-type(n-1) {
+    border: 1px solid #0000005c;
+    text-align: justify;
+    padding: 0px 3px 2px 11px;
+    font-weight: 200;
+    font-size: 11px;
+}
+#login {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(163, 166, 185, 0.9), rgba(211, 214, 235, 0.9)), url(../images/cuocq9j1w1aun90ecox6.webp);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: stretch;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+#dropdown {
+    cursor: pointer;
+}
